@@ -59,7 +59,10 @@ I recorded a quick start video of me deploying Hylia to Netlify and getting the 
 
 ### Serve the site locally
 
+Make sure you use nvm use 8 if you have NVM and Node installed
+
 ```bash
+npm install
 npm start
 ```
 
